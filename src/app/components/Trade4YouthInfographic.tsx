@@ -53,11 +53,11 @@ export function Trade4YouthInfographic() {
             <div className="flex flex-col sm:flex-row items-center gap-6 mt-1">
               {/* actual Trade4Youth logo on white card */}
               <div style={{ background: 'white', borderRadius: '18px', padding: '12px 16px', boxShadow: '0 6px 24px rgba(0,0,0,0.25)', flexShrink: 0 }}>
-                <img
-                  src={trade4youthLogo}
-                  alt="Trade4Youth Logo"
-                  style={{ width: '108px', height: 'auto', display: 'block' }}
-                />
+              <img
+              src="../assets/trade4youth-logo.png"
+              alt="Trade4Youth Logo"
+              style={{ width: '108px', height: 'auto', display: 'block' }}
+              />
               </div>
               <div className="text-center sm:text-left">
                 <h1 style={{ fontSize: '3.4rem', fontWeight: 900, letterSpacing: '-1.5px', lineHeight: 1, color: 'white' }}>
