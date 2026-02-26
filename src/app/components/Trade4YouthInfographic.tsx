@@ -53,7 +53,7 @@ export function Trade4YouthInfographic() {
               {/* actual Trade4Youth logo on white card */}
               <div style={{ background: 'white', borderRadius: '18px', padding: '12px 16px', boxShadow: '0 6px 24px rgba(0,0,0,0.25)', flexShrink: 0 }}>
               <img
-              src="../assets/trade4youth-logo.png"
+              src="./assets/trade4youth-logo.png"
               alt="Trade4Youth Logo"
               style={{ width: '108px', height: 'auto', display: 'block' }}
               />
@@ -540,7 +540,7 @@ export function Trade4YouthInfographic() {
           <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
             <div style={{ background: 'white', borderRadius: '10px', padding: '4px 8px', boxShadow: '0 1px 4px rgba(0,0,0,0.1)' }}>
                <img
-              src="../assets/trade4youth-logo.png"
+              src="./assets/trade4youth-logo.png"
               alt="Trade4Youth Logo"
               style={{ width: '108px', height: 'auto', display: 'block' }}
               />
