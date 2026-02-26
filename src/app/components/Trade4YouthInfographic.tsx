@@ -539,7 +539,11 @@ export function Trade4YouthInfographic() {
         <footer style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', justifyContent: 'space-between', gap: '10px', padding: '14px 6px', borderTop: '1px solid #BFDBFE' }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
             <div style={{ background: 'white', borderRadius: '10px', padding: '4px 8px', boxShadow: '0 1px 4px rgba(0,0,0,0.1)' }}>
-              <img src={trade4youthLogo} alt="Trade4Youth" style={{ width: '40px', height: 'auto', display: 'block' }} />
+               <img
+              src="../assets/trade4youth-logo.png"
+              alt="Trade4Youth Logo"
+              style={{ width: '108px', height: 'auto', display: 'block' }}
+              />
             </div>
             <div>
               <span style={{ fontSize: '0.82rem', color: '#003C78', fontWeight: 700 }}>TRADE4YOUTH</span>
