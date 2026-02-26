@@ -1,4 +1,4 @@
-import trade4youthLogo from 'figma:asset/ff7b50f1ef5c323c7d6e64e300f7d9769d06bdb6.png';
+import trade4youthLogo from '../assets/ff7b50f1ef5c323c7d6e64e300f7d9769d06bdb6.png';
 import {
   AlertTriangle,
   Target,
